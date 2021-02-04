@@ -1,0 +1,38 @@
+body{
+    background-color: #e4d7b5;
+    color: #7A2206;
+}
+a:link, a:active, a:visited, a:hover {
+	color: #2f2f2f;
+}
+#kep{
+    float: right;
+    border: 1px solid;
+}
+hr{
+    width: 80%;
+    height: 3px;
+}
+.kep{
+    border: 1px solid;
+     width: auto;
+     height: auto;
+}
+h1{
+    text-align: center;
+}
+#tablazat{
+    text-align: center;
+}
+#tabla{
+    text-align: left;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+td{
+    vertical-align: middle;
+    text-align: center;
+    
+}
